@@ -1,4 +1,4 @@
-module github.com/bxcodec/httpcache
+module github.com/jose-correia/httpcache
 
 go 1.13
 

@@ -7,9 +7,9 @@ import (
 	"net/http/httptest"
 	"testing"
 
-	"github.com/bxcodec/httpcache"
-	"github.com/bxcodec/httpcache/cache"
-	"github.com/bxcodec/httpcache/mocks"
+	"github.com/jose-correia/httpcache"
+	"github.com/jose-correia/httpcache/cache"
+	"github.com/jose-correia/httpcache/mocks"
 	"github.com/stretchr/testify/mock"
 	"github.com/stretchr/testify/require"
 )

@@ -6,7 +6,7 @@ import (
 	"net/http"
 	"time"
 
-	"github.com/bxcodec/httpcache"
+	"github.com/jose-correia/httpcache"
 )
 
 func Example_inMemoryStorageDefault() {

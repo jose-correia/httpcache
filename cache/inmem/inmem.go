@@ -2,7 +2,7 @@ package inmem
 
 import (
 	memcache "github.com/bxcodec/gotcha/cache"
-	"github.com/bxcodec/httpcache/cache"
+	"github.com/jose-correia/httpcache/cache"
 )
 
 type inmemCache struct {

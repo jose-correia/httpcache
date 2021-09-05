@@ -6,8 +6,8 @@ import (
 
 	"github.com/bxcodec/gotcha"
 	inmemcache "github.com/bxcodec/gotcha/cache"
-	"github.com/bxcodec/httpcache/cache"
-	"github.com/bxcodec/httpcache/cache/inmem"
+	"github.com/jose-correia/httpcache/cache"
+	"github.com/jose-correia/httpcache/cache/inmem"
 )
 
 // NewWithCustomStorageCache will initiate the httpcache with your defined cache storage
